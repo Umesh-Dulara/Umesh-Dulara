@@ -2,7 +2,7 @@
 
 **Cloud & DevOps Engineer | Systems Thinker | Full-Stack Developer**
 
-I am a recent Computer Science graduate specializing in cloud infrastructure, automation, and machine learning. I approach software and infrastructure from a first-principles debugging perspective—valuing structural understanding and technical authenticity over black-box solutions. When I'm not configuring Linux environments or writing automation scripts, I'm capturing and editing visual content as a photographer. 
+I am a recent Computer Science graduate specializing in cloud infrastructure, automation, and machine learning. I approach software and infrastructure from a first-principles debugging perspective-valuing structural understanding and technical authenticity over black-box solutions. When I'm not configuring Linux environments or writing automation scripts, I'm capturing and editing visual content as a photographer. 
 
 ### 🚀 What I'm Doing Right Now
 *   **Deep-Diving into DevOps:** Currently executing a rigorous, self-paced `DevOps-Journey`. I've completed Phase 1 (Linux System Administration & Advanced Shell Scripting) and am actively working through Phase 2 (Docker & Containerization).
@@ -19,9 +19,6 @@ I am a recent Computer Science graduate specializing in cloud infrastructure, au
     An agricultural tech platform featuring an AI-driven disease classifier (MobileNetV2 CNN) and a price forecaster (LSTM). Built with a FastAPI backend and a responsive web dashboard.
 *   **SkyRoute Travels & Tours**  
     A production-ready MERN/Next.js web application deployed on Vercel, fully integrated with Cloudflare DNS mapping.
-*   **Spaceship ZSH Prompt**  
-    *Open Source Contributor:* Authored and merged a pull request for the Daml section of this popular ZSH prompt repository.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
